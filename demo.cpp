@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Apna College"<<endl;
+    cout<<"Hello, Welcome to my 100 days of Coding challenge"<<endl;
     return 0;
 }
